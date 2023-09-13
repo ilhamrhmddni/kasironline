@@ -1,0 +1,10 @@
+#header {
+   display: flex; 
+}
+
+#navbar, #login-daftar {
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    gap: 20px;
+}
